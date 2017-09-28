@@ -13,7 +13,7 @@ class ViewController2: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        print("New Git")
+        print("New Git2.....")
         // Do any additional setup after loading the view.
     }
 
